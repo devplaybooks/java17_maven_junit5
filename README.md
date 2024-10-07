@@ -6,14 +6,10 @@
 
 ---
 
-# Base Template for Dev Playbooks
+# Java 17 / Maven / JUnit Jupiter Dev Playbook
 
-Includes:
+## Plugins
 
-* [Actions Blank CI Starter Workglow](https://github.com/actions/starter-workflows/blob/main/ci/blank.yml)
-* [bnb's](https://github.com/bnb) [Codespaces Base Starter](https://github.com/codespaces-examples/base)
-* Choice of licenses:
-    * [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-    * [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-    * [MIT License](https://opensource.org/license/mit/)
-* [Shields.io](https://shields.io/) [Badges](https://github.com/badges/shields)
+* [Checkstyle](https://checkstyle.org/)
+* [SpotBugs](https://spotbugs.github.io/)
+  * [Find Security Bugs](https://find-sec-bugs.github.io/tutorials.htm#Maven) SpotBugs plugin

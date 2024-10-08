@@ -8,8 +8,10 @@
 
 # Java 17 / Maven / JUnit Jupiter Dev Playbook
 
-## Plugins
+## Maven Plugins
 
 * [Checkstyle](https://checkstyle.org/)
+* [Maven Dependency Plugin](https://maven.apache.org/plugins/maven-dependency-plugin/)
+* [OWASP Dependency Check](https://jeremylong.github.io/DependencyCheck/general/internals.html)
 * [SpotBugs](https://spotbugs.github.io/)
   * [Find Security Bugs](https://find-sec-bugs.github.io/tutorials.htm#Maven) SpotBugs plugin

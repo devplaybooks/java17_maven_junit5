@@ -1,4 +1,4 @@
-package com.example;
+package com.example.my_project;
 
 /**
  * This class provides basic arithmetic operations.

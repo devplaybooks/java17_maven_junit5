@@ -12,6 +12,12 @@
 
 * [Checkstyle](https://checkstyle.org/)
 * [Maven Dependency Plugin](https://maven.apache.org/plugins/maven-dependency-plugin/)
+* [Maven Failsafe Plugin](https://maven.apache.org/surefire/maven-failsafe-plugin/)
 * [OWASP Dependency Check](https://jeremylong.github.io/DependencyCheck/general/internals.html)
 * [SpotBugs](https://spotbugs.github.io/)
   * [Find Security Bugs](https://find-sec-bugs.github.io/tutorials.htm#Maven) SpotBugs plugin
+
+### Resources
+
+* [Guide to the Core Maven Plugins](https://www.baeldung.com/core-maven-plugins)
+* [Top 10 Essential Maven Plugins for Java Projects](https://medium.com/@AlexanderObregon/top-10-essential-maven-plugins-for-java-projects-a85b26a4de31)

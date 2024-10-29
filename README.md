@@ -14,6 +14,9 @@
 * [JaCoCo Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [Maven Dependency Plugin](https://maven.apache.org/plugins/maven-dependency-plugin/)
 * [Maven Failsafe Plugin](https://maven.apache.org/surefire/maven-failsafe-plugin/)
+* [Maven Surefire Plugin](https://maven.apache.org/surefire/maven-surefire-plugin/)
+  * [Maven Surefire JUnit5 TreeView Extension](https://github.com/fabriciorby/maven-surefire-junit5-tree-reporter)
+    * [My journey to a clear test output in Maven](https://medium.com/wearewaes/my-journey-to-a-clear-test-output-in-maven-df82fe272249)
 * [OWASP Dependency Check](https://jeremylong.github.io/DependencyCheck/general/internals.html)
 * [SpotBugs](https://spotbugs.github.io/)
   * [Find Security Bugs](https://find-sec-bugs.github.io/tutorials.htm#Maven) SpotBugs plugin
